@@ -1,5 +1,6 @@
 # SQL_Projects
 
+
 The essence of our project is to let the executives and supervisors know about the losses incurred by the company because of returns made by the customer. During the evaluation, it was found that there were some discrepancies in the data, so an assumption was made. The project involves findings as follows:
 
 
