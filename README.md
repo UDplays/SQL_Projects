@@ -1,4 +1,4 @@
-Welcome to my Analytics Proejct Page.
+Welcome to my Analytics Project Page.
 
 1:- Tableau Project
 
